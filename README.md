@@ -21,7 +21,7 @@ Mi expertise abarca desde **sitios web estáticos hasta aplicaciones dinámicas*
   - Creación de apps multiplataforma con **.NET MAUI**.  
 
 ## 🚀 **Proyectos Destacados**  
-- [Landing Page para Negocio Local]) - HTML/CSS/JS + Hostinger.  
+- [Landing Page para Negocio Local](https://alahiaeventssllc.com) - HTML/CSS/JS + Hostinger.  
 - [Gestor de Tareas con .NET MAUI](https://github.com/AlvarezCode/ejemplo-maui) - App móvil multiplataforma.  
 
 ## 📫 **¡Hablemos!**  
